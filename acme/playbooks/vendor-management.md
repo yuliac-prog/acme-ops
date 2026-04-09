@@ -14,3 +14,4 @@
 - Schedule quarterly business reviews.
 - Track performance metrics and SLAs.
 - Maintain a log of issues and resolutions.
+- Set up alerts for contract renewal deadlines 
